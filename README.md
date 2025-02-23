@@ -10,6 +10,7 @@ This project is inspired by T.N. Derbysheva's course (2020), taught at the Depar
 
 - `docs/`: Documentation and development notes (in Russian).
 - `code/`: Source code of the emulator (with comments in English).
+- `test/`: Source code testing data.
 
 ## License
 
